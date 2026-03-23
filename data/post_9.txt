@@ -1,0 +1,107 @@
+--- POST 9 ---
+Thông Báo Gộp Server/Trao Đổi Dữ Liệu
+Thân gửi các vị Người Tu Chân:
+Để nâng cao trải nghiệm trò chơi và tạo ra một môi trường tốt hơn cho tất cả, chúng tôi sẽ tiến hành [Trao Đổi Dữ Liệu] cho một số máy chủ vào ngày 10 tháng 3 năm 2026 từ 5:00 đến 07:00. Các máy chủ tham gia trao đổi dữ liệu sẽ có thể tham gia sự kiện lần này, chi tiết xin vui lòng đăng nhập trò chơi sau khi bảo trì để xem.
+Sau khi trao đổi dữ liệu, tên máy chủ trên giao diện đăng nhập vẫn sẽ được giữ nguyên, mọi người có thể tiếp tục vào trò chơi như trước đây.
+Trong thời gian trao đổi dữ liệu có thể gây ra một số bất tiện, mong quý vị thông cảm. Chúc các vị chơi game vui vẻ!
+[Máy Chủ Trao Đổi Dữ Liệu]
+Máy chủ mục tiêu: S2 - Kiếm Tiên
+Máy chủ nguồn: S3 - Tích Vũ,
+S4 - Vạn Hóa
+->Mẹo: Máy chủ mục tiêu là máy chủ sẽ tiếp nhận toàn bộ dữ liệu di cư từ các máy chủ nguồn; Máy chủ nguồn là những máy chủ có toàn bộ dữ liệu được máy chủ mục tiêu tiếp nhận.
+[Lịch Trình Trao Đổi Dữ Liệu]
+1. Đóng các chức năng liên quan
+Thời gian đóng chức năng: 05:00 ngày 7 tháng 3 năm 2026 (Thứ Bảy)
+Để đảm bảo an toàn dữ liệu, chúng tôi sẽ đóng một số chức năng của máy chủ nguồn và máy chủ mục tiêu vào thời điểm trên. Tất cả các chức năng sẽ được khôi phục bình thường sau khi máy chủ mở lại trong ngày thực hiện trao đổi dữ liệu.
+Các hoạt động và chức năng cụ thể bị đóng, xin vui lòng xem quy tắc trao đổi dữ liệu.
+2. Thời gian thực hiện trao đổi dữ liệu
+Thời gian thực hiện: 05:00 – 07:00 ngày 10 tháng 3 năm 2026 (Thứ Ba)
+Do việc trao đổi dữ liệu cần tiến hành bảo trì tạm ngừng máy chủ, trong thời gian này các vị người tu chân sẽ không thể đăng nhập trò chơi. Vì thời gian thao tác trao đổi dữ liệu khá dài, trên đây là thời lượng dự kiến; nếu bảo trì hoàn thành sớm thì máy chủ sẽ được mở ngay lập tức, sau khi kết thúc bảo trì có thể đăng nhập bình thường.
+3. Bồi thường do tạm ngừng máy chủ khi trao đổi dữ liệu
+Các máy chủ tham gia trao đổi dữ liệu lần này sẽ nhận được 500 Nguyên bảo khóa như phần bồi thường sau khi kết thúc quá trình trao đổi dữ liệu.
+Các khoản bồi thường khác liên quan đến trao đổi dữ liệu sẽ được phát theo tình hình thực tế của bạn trong trò chơi.
+[Quy Tắc Trao Đổi Dữ Liệu]
+I. Phạm vi trao đổi dữ liệu
+Máy chủ nguồn: Tất cả dữ liệu của máy chủ nguồn sẽ được chuyển sang máy chủ mục tiêu. Người chơi ở máy chủ nguồn sau khi trao đổi dữ liệu sẽ nhận được [Quà Bồi Thường Gộp Server] qua thư.
+Máy chủ mục tiêu: Là máy chủ tiếp nhận dữ liệu từ máy chủ nguồn. Người chơi ở máy chủ mục tiêu sau khi trao đổi dữ liệu cũng sẽ nhận được [Quà Bồi Thường Gộp Server] qua thư.
+II. Quy tắc về dữ liệu nhân vật và đăng nhập
+1. Số lượng nhân vật
+1-1: Trong trò chơi di động  , cùng một tài khoản có thể tạo tối đa 4 nhân vật trên mỗi máy chủ.
+1-2: Sau khi trao đổi dữ liệu, sẽ giữ lại 4 nhân vật theo thứ tự ưu tiên: trước hết dựa vào tổng số tiền nạp từ cao xuống thấp; nếu tổng số tiền nạp bằng nhau thì dựa vào tu vi từ cao xuống thấp. Các nhân vật còn lại sẽ bị xóa.
+1-3: Xử lý cùng tên: Khi có nhân vật cùng tên giữa hai máy chủ, tên của người chơi cùng sẽ được thêm một chuỗi ký tự được tạo theo quy tắc nhất định.
+1-4: Người chơi bị buộc đổi tên sẽ nhận được một thư hệ thống kèm theo đạo cụ đổi tên sau khi trao đổi dữ liệu.
+2. Thông tin cá nhân
+Sau khi trao đổi dữ liệu, các vị Người Tu Chân sẽ giữ nguyên [ff0000]các loại Tiền, Túi, Kho, Kỹ Năng, Nhiệm Vụ, Thư, Bạn, Kết Duyên, Thời Trang, Thú Cưỡi, Thiết Bị Bay, Tinh Linh, Thú Cưng, Thiên Thư, Cường Hóa, Danh Hiệu[-] và các thông tin khác.
+3. Cổng đăng nhập
+Trong danh sách máy chủ sẽ vẫn giữ nguyên tên của máy chủ nguồn và máy chủ mục tiêu. Chọn bất kỳ máy chủ nào cũng có thể vào máy chủ mục tiêu để chơi game.
+[Quy Tắc Đóng Chức Năng]
+Các máy chủ chuẩn bị trao đổi dữ liệu sẽ đóng trước [ff0000]3 ngày[-] các chức năng sau:
+1. Tạo Kết Bái
+Đóng chức năng tạo kết bái, người chơi sẽ không thể tạo kết bái mới.
+2. Tạo Bang
+Đóng chức năng tạo bang, người chơi sẽ không thể tạo bang mới.
+3. Tạo Chiến Đội
+Đóng chức năng tạo chiến đội Tranh Bá Thiên Hạ, người chơi sẽ không thể tạo chiến đội mới.
+4. Bày Bán, Đấu Giá
+Đóng chức năng bày bán và giao dịch đấu giá. Người chơi sẽ không thể đăng sản phẩm lên, sau 24 giờ sản phẩm sẽ tự động gỡ xuống và chuyển vào thư. Những sản phẩm chưa đến hạn gỡ sẽ tự động chuyển sang trạng thái hết hạn. Các giao dịch đang trong quy trình xét duyệt sẽ tiếp tục hoàn tất, tối đa trong 24 giờ sẽ được thông qua. Người chơi vui lòng kiểm tra thư và nhận phần đính kèm kịp thời.
+5. Lì Xì
+Đóng chức năng phát lì xì trong bang, người chơi sẽ không thể phát lì xì trong bang.
+6. Kết duyên
+Đóng chức năng kết duyên, người chơi sẽ không thể thực hiện kết duyên trong thời gian này.
+7. Hôn lễ
+Đóng chức năng hôn lễ, người chơi sẽ không thể tổ chức hôn lễ trong thời gian này.
+8. Hoạt động
+Đóng hoạt động bang "Đá Ngông Cuồng", người chơi sẽ không thể tham gia hoạt động này trong thời gian đóng. (Trong thời gian hoạt động bị đóng, có thể nhận Gói bồi thường hợp nhất máy chủ qua thư, bao gồm phần thưởng cống hiến bang, Nguyên bảo bạc, thuốc đỏ xanh).
+[Các Điều Chỉnh Khác]
+1. Kết Bái
+1-1: Xếp hạng dựa theo tu vi kết bái. Số lượng kết bái được giữ lại trên máy chủ nguồn và máy chủ mục tiêu sẽ phụ thuộc vào số lượng máy chủ tham gia trao đổi dữ liệu, tối đa giữ lại 1000 kết bái. Các kết bái còn lại sẽ tự động giải tán. Người chơi thuộc kết bái bị giải tán sẽ nhận được [Qùa Bồi Thường Kết Bái Giải Tán Gộp Server] qua thư sau khi trao đổi dữ liệu.
+1-2: Xử lý cùng tên: Khi có kết bái cùng tên giữa hai máy chủ, tên kết bái trên máy chủ mục tiêu sẽ được giữ nguyên, còn tên kết bái trên máy chủ nguồn sẽ được thêm ký tự đặc biệt ở cuối. Thủ lĩnh kết bái có thể mua đạo cụ đổi tên để chỉnh sửa.
+1-3: Thủ lĩnh của kết bái bị đổi tên sẽ nhận được [Qùa Bồi Thường Kết Bái Cùng Tên Gộp Server] qua thư sau khi trao đổi dữ liệu.
+2. Bang
+2-1: Xếp hạng dựa theo tu vi bang. Số lượng bang được giữ lại trên máy chủ nguồn và máy chủ mục tiêu sẽ phụ thuộc vào số lượng máy chủ tham gia trao đổi dữ liệu, tối đa giữ lại 250 bang. Các bang phái còn lại sẽ tự động giải tán. Người chơi thuộc bang phái bị giải tán sẽ nhận được [Qùa Bồi Thường Bang Giải Tán Gộp Server] qua thư sau khi trao đổi dữ liệu.
+2-2: Xử lý cùng tên: Khi có bang cùng tên giữa hai máy chủ, tên bang trên máy chủ mục tiêu sẽ được giữ nguyên, còn tên bang trên máy chủ nguồn sẽ được thêm ký tự đặc biệt ở cuối. Bang chủ có thể mua đạo cụ đổi tên để chỉnh sửa
+2-3: Bang chủ của bang phái bị đổi tên sẽ nhận được [Qùa Bồi Thường Bang Cùng Tên Gộp Server] qua thư sau khi trao đổi dữ liệu.
+2-4: Xử lý bang chiến: Giữ lại điểm số và lịch sử bang chiến của từng bang, sau khi Gộp Server sẽ tiến hành xếp hạng lại. Thứ hạng mới sẽ được dùng làm tiêu chuẩn xét định Thành Chiến.
+2-5: Danh hiệu bang: Sau khi trao đổi dữ liệu, khi người chơi đăng nhập sẽ cập nhật danh hiệu theo tên bang mới.
+2-6: Nhật ký bang: Sau khi trao đổi dữ liệu, nhật ký bang phái sẽ bị xóa sạch.
+3. Tranh Bá Thiên Hạ
+3-1: Xếp hạng dựa theo điểm chiến đội. Số lượng chiến đội được giữ lại trên máy chủ nguồn và máy chủ mục tiêu sẽ phụ thuộc vào số lượng máy chủ tham gia kết nối dữ liệu, tối đa giữ lại 2000 chiến đội.
+3-2: Xử lý cùng tên: Khi có chiến đội cùng tên giữa hai máy chủ, tên chiến đội trên máy chủ mục tiêu sẽ được giữ nguyên, còn tên chiến đội trên máy chủ nguồn sẽ được thêm ký tự đặc biệt ở cuối. Đội trưởng có thể mua đạo cụ đổi tên để chỉnh sửa.
+3-3: Sau khi hoàn tất trao đổi dữ liệu, đội trưởng của chiến đội thuộc máy chủ nguồn cần đăng ký lại trước khi tham gia hoạt động Tranh Bá Thiên Hạ.
+3-4: Đội trưởng của chiến đội bị đổi tên sẽ nhận được [Qùa Bồi Thường Chiến Đội Cùng Tên Gộp Server] qua thư sau khi trao đổi dữ liệu.
+[Quy Tắc Điều Chỉnh Chức Năng]
+1. Tranh Lãnh Thổ
+1-1: Sau khi trao đổi dữ liệu, cả máy chủ nguồn và máy chủ mục tiêu sẽ xóa sạch các lãnh thổ đã chiếm, phần thưởng liên quan, tượng… Các bang cần tuân theo quy tắc để giành lại lãnh thổ.
+1-2: Bang bị xóa lãnh thổ, toàn bộ thành viên sẽ nhận được [Đền Bù Lãnh Thổ] qua thư sau khi trao đổi dữ liệu, dựa trên tình trạng chiếm lãnh thổ của bang.
+1-3: Bang chiếm giữ Thành Tổ Long hoặc thành cấp 2 trước khi trao đổi dữ liệu, sau khi Gộp Server và xóa lãnh thổ, trong vòng 7 ngày có thể trực tiếp tuyên chiến Thành Tổ Long hoặc bất kỳ thành cấp 2 nào.
+1-4: Bang có lãnh thổ trước khi trao đổi dữ liệu, sau khi Gộp Server và xóa lãnh thổ sẽ nhận được bồi thường quỹ bang khác nhau tùy theo cấp độ và số lượng lãnh thổ đã chiếm. (Quỹ bang được bồi thường thêm không thể vượt quá giới hạn lưu trữ quỹ bang).
+1-5: Sau khi trao đổi dữ liệu, mục tiêu mùa giải cá nhân của nhân vật sẽ được giữ nguyên.
+2. Quyết Đấu Đỉnh Cao
+Sau khi trao đổi dữ liệu, bảng xếp hạng Quyết Đấu Đỉnh Cao của cả máy chủ nguồn và máy chủ mục tiêu sẽ bị xóa sạch.
+3. Liên Đấu Bang, Liên Đấu Bang Liên SV
+Sau khi trao đổi dữ liệu, điểm số bang của máy chủ nguồn sẽ được chuyển sang máy chủ mục tiêu. Điểm số bang không thay đổi và sẽ được tính lại thứ hạng dựa trên số điểm.
+4. Các loại bảng xếp hạng
+4-1: Tất cả các bảng xếp hạng sẽ bị xóa sạch.
+4-2: Dữ liệu bảng xếp hạng cấp độ, tu vi, thú cưng, thành tựu, Tháp Phù Đồ, thành tích Ảo Cảnh sẽ bị xóa. Sau khi trao đổi dữ liệu, khi người chơi đăng nhập, thông tin cá nhân sẽ tự động đồng bộ vào bảng xếp hạng.
+4-3: Bảng xếp hạng chiến đội Tranh Bá Thiên Hạ, bang, kết bái: Khi có một thành viên của chiến đội, bang hoặc kết bái đăng nhập, dữ liệu sẽ tự động đồng bộ vào bảng xếp hạng tương ứng.
+4-4: Bảng xếp hạng Võ Đài và Quyết Đấu Đỉnh Cao: Sau khi trao đổi dữ liệu, cần tham gia lại các hoạt động tương ứng để tạo bảng xếp hạng mới.
+5. Hệ thống kết duyên
+Dữ liệu về danh hiệu kết duyên, quan hệ kết duyên, thời gian kết duyên của người chơi đã kết duyên sẽ được giữ nguyên sau khi trao đổi dữ liệu. Người chơi kết duyên sau khi kết nối dữ liệu sẽ được sắp xếp theo thứ tự dựa trên số hiệu máy chủ lớn hơn.
+6. Cấp độ máy chủ
+Được tính dựa trên máy chủ có thời gian mở lâu nhất trong số các máy chủ tham gia trao đổi dữ liệu.
+7. Hệ thống thư
+Sau khi trao đổi dữ liệu, thư chỉ giữ lại tối đa 50 bức, phần vượt quá sẽ bị xóa. Người chơi vui lòng tự nhận tất cả phần đính kèm trong thư trước khi trao đổi dữ liệu.
+8. Hệ thống bày bán, đấu giá
+8-1: Trước khi trao đổi dữ liệu, tất cả đạo cụ sẽ được gỡ xuống. Dữ liệu bày bán và đấu giá của cả máy chủ nguồn và máy chủ mục tiêu đều không được giữ lại.
+8-2: Trước 3 ngày trao đổi dữ liệu sẽ đóng chức năng bày bán và giao dịch đấu giá. Người chơi sẽ không thể đăng sản phẩm lên, sau 24 giờ sản phẩm sẽ tự động gỡ xuống và chuyển vào thư. Những sản phẩm chưa đến hạn gỡ sẽ tự động chuyển sang trạng thái hết hạn. Các giao dịch đang trong quy trình xét duyệt sẽ tiếp tục hoàn tất, tối đa trong 24 giờ sẽ được thông qua. Người chơi vui lòng kiểm tra thư và nhận phần đính kèm kịp thời.
+9. Hệ thống Phó Bản
+Sau khi trao đổi dữ liệu, số lần phó bản còn lại sẽ được giữ nguyên.
+10. Tiệm mua giới hạn
+10-1: Số lượng giới hạn mua của máy chủ sẽ giữ theo số lượng của máy chủ mục tiêu.
+10-2: Số lượng giới hạn mua cá nhân sẽ giữ nguyên, không thay đổi.
+11. Uy Danh Phe
+11-1: Cấp độ uy danh phe sẽ giữ theo dữ liệu của máy chủ mục tiêu.
+11-2: Điểm cống hiến uy danh cá nhân sẽ được giữ lại. Sau khi Gộp Server, bảng xếp hạng uy danh sẽ được tính lại dựa trên điểm uy danh cá nhân. Nếu điểm số bằng nhau, thứ tự xếp hạng sẽ dựa vào thời gian đăng nhập sau khi mở server.
+11-3: Chiến công cá nhân sẽ được giữ nguyên.
+11-4: Phần thưởng cấp độ phe sẽ lưu lại tình trạng nhận của cá nhân. (Ví dụ: Người chơi ở máy chủ nguồn đã nhận thưởng giai đoạn 1-3, thì ở máy chủ mục tiêu phần thưởng tương ứng giai đoạn 1-3 sẽ hiển thị là đã nhận; phần thưởng chưa nhận có thể tiếp tục nhận theo tiến độ của máy chủ mục tiêu).
+

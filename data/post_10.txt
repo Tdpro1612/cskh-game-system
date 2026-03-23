@@ -1,0 +1,118 @@
+--- POST 10 ---
+THÔNG BÁO BẢO TRÌ
+Kính gửi các Người Tu Chân:
+Để mang lại trải nghiệm tốt hơn cho tất cả Người Tu Chân, chúng tôi sẽ tiến hành bảo trì định kỳ vào 05:00~07:00 ngày 05/03/2026. Trong trường hợp đặc biệt, thời gian bảo trì có thể kéo dài; nếu hoàn thành sớm, máy chủ sẽ được mở ngay lập tức. Sau khi bảo trì kết thúc, người chơi có thể đăng nhập bình thường.
+Chúng tôi sẽ phát 300 Nguyên Bảo Khóa như phần bồi thường bảo trì cho các Người Tu Chân có cấp độ ≥15. Vui lòng nhận trong thư. Vì việc bảo trì gây bất tiện cho mọi người, chúng tôi xin chân thành xin lỗi. Mong các bạn thông báo cho nhau, sắp xếp thời gian chơi hợp lý để tránh tổn thất không cần thiết. Cảm ơn sự thông cảm và ủng hộ của các bạn!
+Sau mỗi lần bảo trì định kỳ, xin vui lòng đóng hoàn toàn client và đăng nhập lại để cập nhật. Nếu không, có thể xảy ra lỗi tài nguyên và dẫn đến việc mua nhầm vật phẩm trong cửa hàng.
+Thời gian bảo trì: 05:00~07:00 ngày 05/03/2026
+Bồi thường bảo trì: 300 Nguyên bảo khóa
+Người nhận bồi thường: Cấp độ ≥15
+Hoạt Đông Hạn Giờ
+1. Địa Mạch Tầm Bảo
+[Thời gian sự kiện]：05/03 05:00 ~ 08/03 23:59
+[Điều kiện tham gia]：Cấp ≥12
+[Quy Tắc]: Dùng [ff0000]Cuốc Đào Vàng[-] để rút quà, mỗi lần tiêu hao Cuốc Đào Vàng x1, rút 10 lần cần tiêu hao Cuốc Đào Vàng x10; Rút quà có xác suất nhận đạo cụ như Sỏi Ánh Vàng, Địa Mạch Mê Vụ (có vật phẩm hiếm bên trong); Sỏi Ánh Vàng có thể đổi vật phẩm tại [Tiệm Đổi].
+[Phần thưởng chính]: New*Thần khí- Hổ Phú,
+New*Thiên Thư Lv4- Kinh Hồng,
+New*Bí Bàn- Bí Bàn Lưu Li Niệm Không,
+New*[Thời Trang S+]- Giấc Mơ Bạch Vũ (vĩnh viễn)x1,
+New*[S+Trang Sức Đầu]- Giấc Mơ Bạch Vũ (vĩnh viễn) x1,
+Anh Hồn - Hạ Phong,
+Bộ trang phục cấp S: Người Thám Hiểm x1, Người Thám Hiểm-Đầu, Người Thám Hiểm Đao, và vô số phần quà nuôi dưỡng giá trị khác!
+2. Khiêu chiến Tiểu Hổ
+[Thời gian sự kiện]：05/03 05:00 ~ 08/03 23:59
+[Điều kiện tham gia]：Cấp ≥73
+[Quy Tắc]: Hoàn thành nhiệm vụ Tiểu Hổ sẽ nhận được Sỏi Ánh Vàng
+[Phần thưởng chính]: Sỏi Ánh Vàng
+Chú ý: Sự kiện [ff0000]Khiêu chiến Tiểu Hổ[-] sẽ bắt đầu vào ngày 5 tháng 3. Nếu trong tuần đó nhận được [Điểm Tình Nghĩa] quá sớm, có thể sẽ khiến một số nhiệm vụ không thể hoàn thành, vì vậy xin các người tu chân hãy tự lên kế hoạch cho mình.
+3.Nạp Đôi
+[Thời gian sự kiện]：05/03 05:00 ~ 08/03 23:59
+[Quy Tắc]: Trong thời gian diễn ra sự kiện, khi nạp sẽ nhận được số [ff0000]Nguyên Bảo Khóa[-] tương ứng, mỗi mốc nạp có thể hưởng 10 lần; sự kiện này là ưu đãi giới hạn thời gian, không phải thiết lập lại vĩnh viễn lần nạp đầu tiên được nhân đôi, xin các vị Người Tu Chân chú ý đừng bỏ lỡ!
+4. Tụ Bảo La Bàn
+[Thời gian sự kiện]：05/03 05:00 ~ 08/03 23:59
+[Điều kiện tham gia]：Cấp ≥73
+[ Giới thiệu sự kiện]：Trong thời gian diễn ra sự kiện, sau khi nạp số lượng Nguyên Bảo chỉ định, bạn có thể sử dụng Nguyên Bảo (giới hạn sử dụng) để tham gia rút thưởng. Mỗi lần rút thưởng, giá trị phần thưởng nhận được chắc chắn sẽ cao hơn số Nguyên Bảo (giới hạn sử dụng) đã tiêu hao!
+5. Quà Phúc Lành-Huyền Sa Tẩy Kính
+[Thời gian bán]: 09/03 05:00 ~ 11/03 23:59
+[Điều kiện mua]: Cấp ≥73
+[Phần thưởng chính]: Huyền Sa Tẩy Kính
+6. Thần Tuyển-Hoán Linh Kính
+[Thời gian sự kiện]：09/03 05:00 ~ 11/03 23:59
+[Điều kiện tham gia]：Cấp ≥73
+[Phần thưởng sự kiện]：Anh Hồn - Thái Bạch, Anh Hồn - Long Dao, Anh Hồn - Ngọc Hoàn, Anh Hồn - Tương Lai
+[Quy tắc]：Thần Tuyển - Hoán Linh Kính giới hạn Anh Hồn bắt đầu trong thời gian có hạn! Sử dụng Huyền Sa Tẩy Kính để triệu hồi Thái Bạch, Long Dao, Ngọc Hoàn, Tương Lai cùng các Anh Hồn S cấp Thần Tuyển. Các Anh Hồn S giới hạn của Thần Tuyển-Hoán Linh Kính sẽ không xuất hiện trong Hoán Linh Kính Thiên Ảnh hoặc Chiếu Ảnh.
+[Lưu ý]：Các Anh Hồn S có thể triệu hồi sẽ tăng dần theo cấp độ máy chủ.
+7. Trùm Tiêu Xài·Huyền Sa Tẩy Kính-Trùm
+[Thời gian sự kiện]：09/03 05:00 ~ 11/03 23:59
+[Điều kiện tham gia]：Cấp ≥73
+[Phần thưởng sự kiện]：Rương Chọn Anh Hồn S giới hạn.
+[Quy tắc]：Trong thời gian sự kiện, tiêu hao số lượng Huyền Sa Tẩy Kính được chỉ định sẽ nhận phần thưởng sang trọng.
+Quà Hạn Giờ
+[ff0000]1.Lễ-Quà Mini Quân Hàm [-]
+[Thời gian bán] 05/03 05:00 ~ 08/03 23:59
+[Điều kiện tham gia]：Cấp ≥73
+[Phần thưởng chính]: Nguyên Liệu Danh vọng
+2.Lễ-Quà Mini Tinh Luyện
+[Thời gian bán] 05/03 05:00 ~ 08/03 23:59
+[Điều kiện tham gia]：Cấp ≥73
+[Phần thưởng chính]: Nguyên Liệu Tinh Luyện
+3.Lễ-Quà Mini khắc
+[Thời gian bán] 05/03 05:00 ~ 08/03 23:59
+[Điều kiện tham gia]：Cấp ≥73
+[Phần thưởng chính]: Nguyên Liệu Khắc
+4.Lễ-Quà Chất Tinh Luyện
+[Thời gian bán] 05/03 05:00 ~ 08/03 23:59
+[Điều kiện tham gia]：Cấp ≥73
+[Phần thưởng chính]: Nguyên Liệu Tinh Luyện
+5.Lễ-Quà Chất Quân Hàm
+[Thời gian bán] 05/03 05:00 ~ 08/03 23:59
+[Điều kiện tham gia]：Cấp ≥73
+[Phần thưởng chính]: Nguyên Liệu Danh vọng
+6. Quà Phương Tiện Chúa Tuyết Vực
+[Thời gian bán] 11/12 06:00 ~ 14/12 23:59
+[Phần thưởng chính]: New*Thiết Bị Bay- Chúa Tuyết Vực, New*Thú Cưỡi- Chúa Tuyết Vực
+7. Gói Anh Hồn
+[Thời gian bán]: 09/03 00:00 ~ 11/03 23:59
+[Điều kiện mua]: Cấp ≥73
+[Phần thưởng chính]: Hồn Tinh、Kết Tinh
+8. Rương Hoàng Hôn Than Thở
+[Thời gian bán]: 09/03 00:00 ~ 11/03 23:59
+[Điều kiện mua]: Cấp ≥73
+[Phần thưởng chính]: Anh Hồn-Hoàng Hôn Hầu, Anh Hồn-Tứ Thuấn, Anh Hồn-Dực Phong, Anh Hồn-Thanh Y Tử
+9. Rương Tướng Tần Lĩnh
+[Thời gian bán]: 09/03 00:00 ~ 11/03 23:59
+[Điều kiện mua]: Cấp ≥73
+[Phần thưởng chính]: Anh Hồn-Tướng Tần Lĩnh, Anh Hồn-Ngọc Hưởng
+10. Rương Lãnh Chúa Ảo Cảnh
+[Thời gian bán]: 09/03 00:00 ~ 11/03 23:59
+[Điều kiện mua]: Cấp ≥73
+[Phần thưởng chính]: Anh Hồn- Thiên Địa Vô Dụng, Anh Hồn-Anh Hồn-Dực Phong, Anh Hồn-Thanh Y Tử
+11.Rương Thánh Sứ Ánh Trăng
+[Thời gian bán]: 09/03 00:00 ~ 11/03 23:59
+[Điều kiện mua]: Cấp ≥73
+[Phần thưởng chính]: Anh Hồn- Thánh Sứ Ánh Trăng, Anh Hồn- Minh Phủ Mã Diện
+12. Rương Lâm Vân Thần
+[Thời gian bán]: 09/03 00:00 ~ 11/03 23:59
+[Điều kiện mua]: Cấp ≥99
+[Phần thưởng chính]: Anh Hồn- Lâm Vân, Anh Hồn- Ngọc Hưởng
+13. Rương Ma Khốc Cửu Anh
+[Thời gian bán]: 09/03 00:00 ~ 11/03 23:59
+[Điều kiện mua]: Cấp ≥99
+[Phần thưởng chính]: Anh Hồn- Ma Khốc Cửu Anh, Anh Hồn- Huyền Sương Cự Long, Anh Hồn-Thanh Y Tử
+14. Rương Thống Soái Liên Quân
+[Thời gian bán]: 09/03 00:00 ~ 11/03 23:59
+[Điều kiện mua]: Cấp ≥99
+[Phần thưởng chính]: Anh Hồn- Phong Nhẫn, Anh Hồn- Dực Phong, Anh Hồn-Thanh Y Tử
+Ngoại hình
+Thiết Bị Bay: Thảm Trái Tim
+Thiết Bị Bay: Diều Ngân Hạnh
+Thú Cưỡi：Chuột Túi Nhảy
+Ngoại hình：Robot Số 0 (trọn bộ)
+Ngoại hình：Anh Đào Thì Thầm (trọn bộ)
+Ngoại hình：Sứ Đồ Bóng Đêm (trọn bộ)
+Ngoại hình：Cú Dứt Điểm (trọn bộ)
+Ngoại hình：Tim Đập Loạn Nhịp
+Ngoại hình：Tháng Năm Rực Rỡ (trọn bộ)
+Thời Gian Ưu Đãi: 03.05 05:00-03.07 23:59
+Thời Gian Mở Bán: 03.05 05:00-03.11 23:59
+

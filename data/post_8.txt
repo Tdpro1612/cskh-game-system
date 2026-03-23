@@ -1,0 +1,10 @@
+--- POST 8 ---
+Chế Độ Bứt Tốc
+Kính gửi các vị người tu chân:
+Để tối ưu hóa trải nghiệm chơi game của người chơi, hệ thống sẽ mở Chế Độ Bứt Tốc.
+Trong thời gian diễn ra sự kiện, khi tham gia các hoạt động: Thợ Săn Tiền Thưởng, Trật Tự Ngũ Hành, Chiến Tu Tiên Bang, Phó Bản Tu Chân, Khiêu Chiến Đội, Trục Diệt Ác Linh, Tru Thiên Phù Đồ, Quyết Đấu Đỉnh Cao, Uy danh phe, Phụng Minh Cốc/Phụng Đề Giản, Thưởng Thiện Phạt Ác, Nhiệm Vụ Bang, Thám Hiểm Địa Mạch, Kẹp Giấy Đổi Biệt Thự, Tranh Đoạt Dật Linh Cốc… người chơi sẽ nhận được tăng cường phần thưởng sự kiện.
+Chế Độ Bứt Tốc sẽ được mở dần tùy theo tình hình thực tế và vận hành của từng máy chủ.
+Đợt này, máy chủ mở Chế Độ Bứt Tốc và thời gian cụ thể như sau:
+[Máy chủ]: S5 - Thông Thiên
+[Thời Gian] 05:00 05/03/2026 -- 03:00 14/03/2026
+
