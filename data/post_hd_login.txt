@@ -1,0 +1,20 @@
+## 🛠️ Hướng Dẫn Khắc Phục Lỗi Đăng Nhập & Kết Nối
+
+Nếu bạn gặp tình trạng không thể vào được trò chơi hoặc bị đứng ở màn hình tải, hãy thực hiện các bước kiểm tra kỹ thuật sau đây:
+
+### 1. Kiểm tra trạng thái Máy chủ
+* **Xếp hàng (Queue):** Trong giờ cao điểm hoặc ngày đầu mở Server, nếu lượng người truy cập quá lớn, hệ thống sẽ tự động đưa bạn vào hàng chờ. Vui lòng kiên nhẫn và không thoát ứng dụng.
+* **Bảo trì:** Theo dõi các thông báo có hashtag `#ThongBao` để biết lịch bảo trì định kỳ.
+
+### 2. Tối ưu hóa kết nối mạng
+* **Chuyển đổi mạng:** Nếu bị báo lỗi "Kết nối thất bại", hãy thử chuyển từ Wi-Fi sang 4G/5G hoặc ngược lại.
+* **Đổi DNS:** Trong một số trường hợp nhà mạng chặn truy cập, bạn có thể sử dụng ứng dụng **1.1.1.1** để ổn định đường truyền.
+
+### 3. Khắc phục lỗi trên Thiết bị (Android/PC)
+* **Xóa Cache:** Vào `Cài đặt` -> `Ứng dụng` -> `tên ứng dụng` -> `Xóa bộ nhớ đệm`.
+* **Dữ liệu tương thông:** Nếu chơi trên PC, hãy đảm bảo bạn sử dụng **Trình giả lập chính thức** từ trang chủ `tên game` để tránh lỗi xung đột dữ liệu giữa các nền tảng.
+* **Cập nhật:** Kiểm tra App Store hoặc Google Play để đảm bảo bạn đang sử dụng phiên bản mới nhất ví dụ (V.1.x).
+
+### 4. Lưu ý về Bảo mật
+* **Mã quà giả mạo:** Tuyệt đối không đăng nhập tài khoản vào các trang web lạ hứa hẹn tặng Kim Cương hoặc Code VIP. 
+* **Kênh hỗ trợ:** Mọi vấn đề về tài khoản bị khóa hoặc nạp thẻ lỗi, vui lòng gửi phản hồi qua **Trung tâm Hỗ trợ** tích hợp trong game.

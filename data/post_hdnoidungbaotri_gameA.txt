@@ -1,15 +1,14 @@
 --- POST 5 ---
 THÔNG BÁO BẢO TRÌ
 Kính gửi các Người Tu Chân:
-Để mang lại trải nghiệm tốt hơn cho tất cả Người Tu Chân, chúng tôi sẽ tiến hành bảo trì định kỳ vào 05:00~07:00 ngày 12/03/2026. Trong trường hợp đặc biệt, thời gian bảo trì có thể kéo dài; nếu hoàn thành sớm, máy chủ sẽ được mở ngay lập tức. Sau khi bảo trì kết thúc, người chơi có thể đăng nhập bình thường.
+Để mang lại trải nghiệm tốt hơn cho tất cả Người Tu Chân, chúng tôi sẽ tiến hành bảo trì định kỳ vào 05:00~07:00. Trong trường hợp đặc biệt, thời gian bảo trì có thể kéo dài; nếu hoàn thành sớm, máy chủ sẽ được mở ngay lập tức. Sau khi bảo trì kết thúc, người chơi có thể đăng nhập bình thường.
 Chúng tôi sẽ phát 300 Nguyên Bảo Khóa như phần bồi thường bảo trì cho các Người Tu Chân có cấp độ ≥15. Vui lòng nhận trong thư. Vì việc bảo trì gây bất tiện cho mọi người, chúng tôi xin chân thành xin lỗi. Mong các bạn thông báo cho nhau, sắp xếp thời gian chơi hợp lý để tránh tổn thất không cần thiết. Cảm ơn sự thông cảm và ủng hộ của các bạn!
 Sau mỗi lần bảo trì định kỳ, xin vui lòng đóng hoàn toàn client và đăng nhập lại để cập nhật. Nếu không, có thể xảy ra lỗi tài nguyên và dẫn đến việc mua nhầm vật phẩm trong cửa hàng.
-Thời gian bảo trì: 05:00~07:00 ngày 12/03/2026
+Thời gian bảo trì: 05:00~07:00
 Bồi thường bảo trì: 300 Nguyên bảo khóa
 Người nhận bồi thường: Cấp độ ≥15
 Hoạt Đông Hạn Giờ
 1. Trùm Tiêu Xài- Thiên Thư
-[Thời gian sự kiện]：12/03 05:00 ~ 13/03 23:59
 [Điều kiện tham gia]：Cấp ≥53
 Thiên Thư Kế-Địa
 [ Giới thiệu sự kiện]：Trong thời gian diễn ra sự kiện, tiêu hao số lượng gói [Thiên Thư Kế-Địa] tương ứng sẽ nhận được phần thưởng phong phú
@@ -18,89 +17,70 @@ Thiên Thư Bí Điển
 [ Giới thiệu sự kiện]：Trong thời gian diễn ra sự kiện, tiêu hao số lượng gói [Thiên Thư Bí Điển ] tương ứng sẽ nhận được phần thưởng phong phú
 [Phần thưởng chính]：Bí Quyển Thượng Cổ, Đá Càn Khôn
 2.Tụ Bảo La Bàn
-[Thời gian sự kiện]：12/03 00:00 ~ 13/03 23:59
 [Điều kiện tham gia]：Cấp ≥73
 [ Giới thiệu sự kiện]：Trong thời gian diễn ra sự kiện, sau khi nạp số lượng Nguyên Bảo chỉ định, bạn có thể sử dụng Nguyên Bảo (giới hạn sử dụng) để tham gia rút thưởng. Mỗi lần rút thưởng, giá trị phần thưởng nhận được chắc chắn sẽ cao hơn số Nguyên Bảo (giới hạn sử dụng) đã tiêu hao!
 3. Ưu Đãi May Mắn
-[Thời gian sự kiện]：14/03 00:00 ~ 15/03 23:59
 [Điều kiện tham gia]：Cấp ≥73
 [Phần thưởng chính]: Nhiều nguyên liệu tăng cường năng lực
 4. Gói Ưu Đãi
-[Thời gian sự kiện]：14/03 00:00 ~ 15/03 23:59
 [Điều kiện tham gia]：Cấp ≥73
 [Phần thưởng chính]: Nhiều nguyên liệu tăng cường năng lực
 5. Thông Thiên Bí Bảo
-[Thời gian sự kiện]: 16/03 00:00 ~ 18/03 23:59
 [Điều kiện tham gia]：Cấp ≥73
 [Mô tả sự kiện]：Sử dụng Lệnh Bài Tầm Bảo để tham gia tìm kho báu, mỗi lần tìm kho báu đều nhận được chiến lợi phẩm. Mỗi lần tìm kho báu sẽ nhận thêm 10 điểm, khi đạt số điểm chỉ định sẽ nhận được phần thưởng hiếm tương ứng. Điểm số giữa các bản đồ không được chia sẻ.
 [Phần thưởng chính]：Hộp Chọn Thông Thiên
 Mở ra có thể chọn Mảnh Thần Khí chỉ định hoặc Túi Bất Ngờ Thông Thiên. Thu thập 10 mảnh Thần Khí có thể hợp thành 1 Thần Khí tương ứng.
 6. Quà Phúc Lành
-[Thời gian sự kiện]：16/03 00:00 ~ 18/03 23:59
 [Điều kiện tham gia]：Cấp ≥73
 [Phần thưởng chính]：Lệnh Bài Tầm Bảo, Linh Châu
 7. Nạp Tích Lũy
-[Thời gian sự kiện]：16/03 00:00 ~ 18/03 23:59
 [Điều kiện tham gia]：Cấp ≥73
 [Luật chơi]：Tổng số tiền nạp đạt mức chỉ định sẽ nhận được nhiều phần thưởng lớn
 [Phần thưởng chính]：Lệnh Bài Tầm Bảo
 Quà Hạn Giờ
 1. Rương Trận Pháp Cao
-[Thời gian bán]: 12/03 05:00 ~ 18/03 23:59
 [Điều kiện tham gia]：Cấp ≥99
 [Phần thưởng chính]: Rương Chọn Trận Pháp-Cao
 Mở ra có thể chọn 1 trong Chân-Lưỡng Nghi Trận hoặc Chân·Chân-Tam Tài Trận để nhận.
 2. Gói Thiên Thư Bí Điển
-[Thời gian bán]: 12/03 05:00 ~ 13/03 23:59
 [Điều kiện tham gia]：Cấp ≥59
 [Phần thưởng chính]：Mảnh Thiên Thư Bí Điển
 25 mảnh Thiên Thư Bí Điển có thể hợp thành 1 Rương chọn Thiên Thư Bí Điển, mở ra sẽ chọn được 1 quyển Thiên Thư Lv6 chỉ định.
 Ngoài ra, 1 mảnh Thiên Thư Bí Điển có thể tách thành 3 Bí Quyển Thượng Cổ.
 3. Quà Thiên Thư Kế-Địa
-[Thời gian bán]: 12/03 05:00 ~ 13/03 23:59
 [Điều kiện tham gia]：Cấp ≥59
 [Phần thưởng chính]：Rương Chọn Thiên Thư Kế,mở ra có thể chọn 1 quyển Thiên Thư Lv4 chỉ định.
 4. Ngọc Giản Cổ Thư
-[Thời gian bán]: 12/03 05:00 ~ 13/03 23:59
 [Điều kiện tham gia]：Cấp ≥59
 [Phần thưởng chính]：Nguyên Sơ Đạo Lv2, Nguyên Sơ Đạo Lv1
 5.Ngọc Giản Cổ Thư Cao
-[Thời gian bán]：12/03 05:00 ~ 13/03 23:59
 [Điều kiện tham gia]: Cấp ≥99
 [Phần thưởng chính]: Bí Quyển Thượng Cổ, Nguyên Sơ Đạo Lv4, Nguyên Sơ Đạo Lv3
 6. Gói Ưu Đãi Bí Quyển Thượng Cổ
-[Thời gian bán]: 12/03 05:00 ~ 13/03 23:59
 [Điều kiện tham gia]：Cấp ≥59
 [Phần thưởng nổi bật]：Bí Quyển Thượng Cổ
 7. Gói Ưu Đãi Quyển Cổ Đại
-[Thời gian bán]: 12/03 05:00 ~ 13/03 23:59
 [Điều kiện tham gia]：Cấp ≥59
 [Phần thưởng nổi bật]：Quyển Cổ Đại
 8. Ngọc Giản Phù Triện
-[Thời gian bán]: 12/03 05:00 ~ 13/03 23:59
 [Điều kiện tham gia]：Cấp ≥59
 [Phần thưởng chính]：Phù Triện Khắc Ấn, Nguyên liệu Khắc
 9. Rương Tiên Ma
-[Thời gian bán]: 16/03 00:00 ~ 18/03 23:59
 [Điều kiện tham gia]：Cấp ≥73
 [Phần thưởng chính] Rương Sách Tiên Ma Truyền Kỳ
 Khi mở Rương Sách Tiên Ma Truyền Kỳ, người chơi sẽ nhận được 1 Bí Kíp Tiên Ma của hệ hiện tạ. Bí Kíp được chia thành Bí Kíp Thường và Bí Kíp Hiếm, trong đó tỷ lệ nhận Bí Tịch Thường cao hơn Bí Tịch Hiếm.
 Sách Tiên Ma Tiên Ma, Sách Tinh Linh, và Mảnh Thiên Thư có thể giao dịch. Các vật phẩm khác không thể giao dịch.
 10. Quà Ưu Đãi Khế Linh
-[Thời gian bán] 16/03 00:00 ~ 18/03 23:59
 [Điều kiện tham gia]：Cấp ≥73
 [Phần thưởng chính]: Linh Châu
 11. Gói Chí Tôn Khế Linh
-[Thời gian bán]: 16/03 00:00 ~ 18/03 23:59
 [Điều kiện tham gia]：Cấp ≥99
 [Phần thưởng chính]: Linh Châu
 12. Rương Luyện Ma
-[Thời gian bán]: 16/03 05:00 ~ 18/03 23:59
 [Điều kiện tham gia]：Cấp ≥73
 [Phần thưởng chính]: Mảnh Tháp Luyện Ma
 50 Mảnh Tháp Luyện Ma có thể ghép 1 Tháp Luyện Ma
 13.Rương Ngọc Tịnh Bình
-[Thời gian bán]: 16/03 00:00 ~ 18/03 23:59
 [Điều kiện tham gia]：Cấp ≥73
 [Phần thưởng chính]: Mảnh Liên Hoa Tịnh Bình
 50 Mảnh Liên Hoa Tịnh Bình có thể ghép 1 Liên Hoa Tịnh Bình.
@@ -114,6 +94,4 @@ Ngoại hình：Ao Thu Nam (trọn bộ)
 Ngoại hình：Quy Tắc Chân Thành (trọn bộ)
 Ngoại hình：Hồi Ức Dưới Đèn
 Ngoại hình：Sơ Tuyết Chi Ước
-Thời Gian Ưu Đãi: 05:00 12/03 - 23:59 14/03
-Thời Gian Mở Bán: 05:00 12/03 - 23:59 18/03
 
