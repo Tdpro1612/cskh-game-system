@@ -1,0 +1,35 @@
+## 💳 HƯỚNG DẪN THANH TOÁN & NẠP VÀNG
+
+Để tối ưu hóa trải nghiệm và nhận được nhiều ưu đãi nhất, người tu chân có thể lựa chọn một trong hai hình thức thanh toán chính thức dưới đây:
+
+### 1\. Thanh toán Trực tiếp trên Web (Khuyên dùng ⭐)
+
+Đây là hình thức giúp bạn nhận được tỉ lệ quy đổi tốt nhất và các gói quà ưu đãi nạp đầu.
+
+  * **Bước 1:** Truy cập trang nạp chính thức tại: [https://nap.tghm2.vn/](https://www.google.com/url?sa=E&source=gmail&q=https://nap.tghm2.vn/)
+  * **Bước 2:** Đăng nhập tài khoản game và chọn chính xác **Server/Nhân vật** đang chơi.
+  * **Bước 3:** Chọn gói Vàng hoặc gói Quà muốn mua.
+  * **Bước 4:** Lựa chọn phương thức thanh toán phù hợp:
+      * **Thẻ ngân hàng (ATM/Internet Banking).**
+      * **Ví điện tử (Momo, ZaloPay).**
+      * **Chuyển khoản trực tiếp.**
+  * **Bước 5:** Xác nhận giao dịch. Vàng/Quà sẽ được gửi trực tiếp vào Túi đồ hoặc Thư trong game sau 1-3 phút.
+
+### 2\. Thanh toán In-App (iOS & Android)
+
+Hình thức này tiện lợi, thanh toán trực tiếp qua tài khoản liên kết với cửa hàng ứng dụng.
+
+  * **Bước 1:** Trong giao diện game, nhấn vào biểu tượng **Nạp** hoặc **Cửa hàng**.
+  * **Bước 2:** Chọn gói vật phẩm cần mua. Hệ thống sẽ hiển thị bảng thanh toán của Google Play hoặc App Store.
+  * **Bước 3:** Xác thực thanh toán bằng:
+      * **Vân tay/FaceID.**
+      * **Mật khẩu tài khoản ID Apple/Google.**
+  * **Bước 4:** Tiền sẽ được trừ vào phương thức bạn đã liên kết (Ví ShopeePay, MoMo, hoặc Thẻ tín dụng đã add vào Store).
+
+-----
+
+### ⚠️ LƯU Ý QUAN TRỌNG
+
+1.  **Nạp lần đầu:** Hầu hết các gói nạp trên Web đều có ưu đãi **X2 Vàng** cho lần đầu tiên.
+2.  **Bảo mật:** Chỉ thanh toán tại các địa chỉ có tên miền chính thức. Đội ngũ vận hành **KHÔNG** bao giờ yêu cầu cung cấp mật khẩu cấp 2 hoặc mã OTP qua tin nhắn riêng.
+3.  **Hỗ trợ:** Nếu sau 30 phút chưa nhận được vật phẩm, vui lòng chụp lại hóa đơn (mã giao dịch) và gửi về Trung tâm Hỗ trợ khách hàng.
