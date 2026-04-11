@@ -25,29 +25,58 @@ Hệ thống AI Agent tự động hỗ trợ chăm sóc khách hàng chuyên bi
 ## 📂 Cấu trúc dự án (Project Tree)
 
 ```text
-ai-cskh-game/
-├── assets/                 # Tài nguyên tĩnh phục vụ hiển thị
-│   └── images/             # Chứa ảnh flowchart.png cho README
-├── config/                 # Cấu hình hệ thống (API Keys, Database, Maintenance Level)
-├── data/                   # Chứa tài liệu RAG (Event, Hướng dẫn tân thủ, VPN)
-├── docs/                   # Tài liệu thiết kế và đặc tả logic
-│   ├── diagrams/           # Chứa file HD_CSKH_GAME.drawio gốc
-│   └── README_logic.md     # Giải thích chi tiết quy tắc nghiệp vụ AI
-├── src/
-│   ├── agents/             # Định nghĩa các Agent (Router, Account, Transaction, QA)
-│   ├── tools/              # Hiện thực hóa các công cụ xử lý (9 Tools)
-│   │   ├── vision.py       # Tool 1: vision_ocr
-│   │   ├── system.py       # Tool 2: check_maintenance_status
-│   │   ├── user.py         # Tool 3, 4: verify_user_id, send_otp
-│   │   ├── invoice.py      # Tool 5, 7: verify_invoices_batch, check_transaction
-│   │   ├── rag.py          # Tool 8, 9: game_knowledge, check_event_eligibility
-│   │   └── ticket.py       # Tool 6: create_support_ticket
-│   ├── workflows/          # Chứa logic rẽ nhánh (Flowchart logic)
-│   │   ├── main_router.py  # Phân loại vào 3 nhánh lớn
-│   │   ├── account_flow.py # Logic login, bảo trì, xác minh
-│   │   └── qa_flow.py      # Logic hỏi đáp event
-│   └── utils/              # Xử lý format JSON, log chat, quản lý session
-├── tests/                  # Test case cho từng tool và workflow
-├── main.py                 # File chạy chính của chatbot
-└── requirements.txt        # Danh sách thư viện (LangChain, OpenAI, Pydantic, v.v.)
+cskh-game-system/
+├── main.py                     # Khởi chạy FastAPI
+├── .env
+├── requirements.txt
+│
+├── cskhgamesystem/               # [PROJECT PACKAGE]
+│   ├── __init__.py
+│   │
+│   ├── core/                   # Những thứ dùng chung toàn hệ thống
+│   │   ├── base_agent.py       # Lớp trừu tượng cho AI
+│   │   ├── config.py           # Đọc file .env
+│   │   └── security/           # Logic bảo mật dùng chung
+│   │       ├── filter.py       # Regex lọc OTP, Pass (Dọn dẹp data)
+│   │       └── validator.py    # Kiểm tra tính hợp lệ của request
+│   │
+│   ├── shared/                 # Dịch vụ nền (Infrastructure)
+│   │   ├── database.py         # Kết nối Mongo/Redis
+│   │   ├── memory.py           # Quản lý Session
+│   │   └── ticket_service.py   # Hệ thống đẩy Ticket sang Human
+│   │
+│   ├── modules/                # [CÁC MODULE TÍNH NĂNG - TỰ TRỊ]
+│   │   │
+│   │   ├── gateway/            # Module tiếp nhận & điều hướng
+│   │   │   ├── api.py          # Endpoint tiếp nhận chat từ App
+│   │   │   ├── router.py       # Logic điều hướng session
+│   │   │   ├── classifier.py   # Small Intent Check
+│   │   │   └── prompt_heading.txt
+│   │   │
+│   │   ├── payment/            # Module Nạp tiền (Gói gọn từ A-Z)
+│   │   │   ├── agent.py        # Logic AI xử lý nạp tiền
+│   │   │   ├── repo.py         # Truy vấn DB giả lập (Port 8001)
+│   │   │   ├── schema.py       # Định dạng JSON đầu ra riêng cho Payment
+│   │   │   └── prompt_payment.txt
+│   │   │
+│   │   ├── account/            # Module Lỗi tài khoản
+│   │   │   ├── agent.py
+│   │   │   ├── repo.py
+│   │   │   ├── schema.py
+│   │   │   └── prompt_account.txt
+│   │   │
+│   │   └── knowledge/          # Module Hỏi đáp (RAG)
+│   │       ├── agent.py
+│   │       ├── rag_engine.py
+│   │       └── prompt_qa.txt
+│   │
+│   └── utils/                  # Tiện ích bổ trợ (Helpers)
+│       ├── image_proc.py
+│       └── logger.py
+│
+└── data_user_game_api/                # [HỆ THỐNG GIẢ LẬP GAME - ĐỘC LẬP]
+    ├── server.py               # API Port 8001
+    ├── game_data.db            # SQLite
+    ├── init_db.py              # Tạo data mẫu
+    └── models.py               # SQLAlchemy models cho SQLite
 ```
