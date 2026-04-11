@@ -30,6 +30,14 @@ cskh-game-system/
 ├── .env
 ├── requirements.txt
 │
+|── assets/                     # <--- TÀI NGUYÊN RUNTIME (Dùng để chạy App)
+│   ├── icons/                  # Icon cho UI/Bot
+│   └── images/                 # Ảnh hướng dẫn, banner game
+│
+├── docs/                       # <--- TÀI LIỆU DỰ ÁN (Dùng để xem & dev)
+│   ├── flows/                  # Các file sơ đồ luồng (Payment_flow.png,...)
+│   └── schema/                 # Sơ đồ thiết kế Database
+|
 ├── cskhgamesystem/               # [PROJECT PACKAGE]
 │   ├── __init__.py
 │   │
